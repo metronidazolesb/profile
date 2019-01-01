@@ -1,0 +1,41 @@
+header{
+	width: 100%;
+	font-family: monospace;
+	font-size: 24px;
+	text-align: center;
+	float: center;
+}
+
+body{
+	background: black;
+	color: white;
+	font-family: monospace;
+	max-width: 1050px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.mainpanel{
+	background: black;
+	color: white;
+	font-family: monospace;
+	margin-left: 3cm;
+	margin-right: 1cm;
+	float: left;
+	max-width: 50%;
+}
+
+.sidepanel{
+	float: left;
+	max-width: 30%;
+	margin: 0px;
+	padding: 0px;
+}
+
+footer{
+	width: 100%;
+	font-family: monospace;
+	text-align: center;
+	float: center;
+}
+
